@@ -102,12 +102,6 @@ In this code sample, we have adapted the EfficientNet B0 model in several ways: 
 
 Thus, given a colored square image as the network input, we would expect the model to compute an output between 0 and 1 that indicates the probability of the input image being either deepfake (0) or pristine (1).
 
-## Authors
-
-* **Aaron Chong** - *Initial work* - [aaronchong888](https://github.com/aaronchong888)
-* **Hugo Ng** - *Initial work* - [hugoclong](https://github.com/hugoclong)
-
-See also the list of [contributors](https://github.com/aaronchong888/DeepFake-Detect/contributors) who participated in this project.
 
 ## Acknowledgments
 
